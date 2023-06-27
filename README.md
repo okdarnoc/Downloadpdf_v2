@@ -1,11 +1,11 @@
-# Webpage File Downloader
+# Webpage File Downloader GUI
 
 This script is a simple Python application that allows you to download all files of a certain type from a webpage. It utilizes BeautifulSoup and requests libraries to scrape the webpage, and Tkinter to provide a simple graphical user interface.
 
 ## Dependencies
-requests
-BeautifulSoup4
-Tkinter (comes pre-installed with Python)
+1. requests
+2. BeautifulSoup4
+3. Tkinter (comes pre-installed with Python)
 
 ## Mechanism
 
